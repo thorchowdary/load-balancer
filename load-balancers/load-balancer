@@ -1,0 +1,11 @@
+Load balancer types:
+----------------------
+application load balancer
+works l7 (layer7-application layer)
+protocols: http(port:80), https(port:443)
+
+network load balancer
+----------------------
+works l4 (layer4 - transport layer)
+protocols: tcp,ssh(port:22)
+
